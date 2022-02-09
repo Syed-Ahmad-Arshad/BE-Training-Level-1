@@ -4,7 +4,7 @@
 10 / 3 gives us the answer as floating point correct upto decimals i.e, 3.33333333... However, 10//3 just gives us the integer value leaving the values after the decimal.
 
 ### Q2: What is the result of 10 ** 3?
-1000. Two asterisks work as power.
+It returns a 1000. Two asterisks work as power.
 
 ### Q3: Given (x = 1), what will be the value of after we run (x += 2)?
 x += 2 is similar to x = x + 2, so x will be 3.
