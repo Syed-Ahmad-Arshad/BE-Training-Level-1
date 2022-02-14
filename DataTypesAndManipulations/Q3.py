@@ -10,4 +10,3 @@ for k in birthday_data.values():
     month_data.append(sp[1])
 res = Counter(month_data)
 print(res)
-
