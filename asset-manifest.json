@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/number-processor/static/css/main.e6c13ad2.css",
+    "main.js": "/number-processor/static/js/main.01128825.js",
+    "static/js/453.3f84e6d8.chunk.js": "/number-processor/static/js/453.3f84e6d8.chunk.js",
+    "index.html": "/number-processor/index.html",
+    "main.e6c13ad2.css.map": "/number-processor/static/css/main.e6c13ad2.css.map",
+    "main.01128825.js.map": "/number-processor/static/js/main.01128825.js.map",
+    "453.3f84e6d8.chunk.js.map": "/number-processor/static/js/453.3f84e6d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.01128825.js"
+  ]
+}
